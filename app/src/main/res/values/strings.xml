@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlocNotes</string>
+    <string name="Noir">Noir</string>
+    <string name="Bleu">Bleu</string>
+    <string name="Rouge">Rouge</string>
+    <string name="text">text</string>
+    <string name="Smylé">Smylé</string>
+
+</resources>
